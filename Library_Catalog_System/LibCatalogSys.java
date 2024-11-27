@@ -37,7 +37,7 @@ class LibRecords{
 		books.add(new Book(writer,name));
 		System.out.println("Books are added successfully in the stack!");
 	}
-	//We can search for books by name and author
+	//We can search for books by name and writer
 	void searchBooks(String query, boolean searchByName){
 		String type = searchByName ? "name" : "writer"; //
 		System.out.println("Searching for books by " + type + ": " + query);
