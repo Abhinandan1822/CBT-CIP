@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/hibernate-core-5.0.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Java/JDBC/mysql-connector-j-9.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
